@@ -1,7 +1,7 @@
 ![Desktop Screenshoot](./Screenshoots/Desktop.png)
 
 - **Distro**: Manjaro
-- **Desktop Environment*: KDE Plasme
+- **Desktop Environment**: KDE Plasme
 - **Icon Pack**: Papirus Dark
 - **Global Theme**: Aura KDE
 - **GTK2/3 Theme**: Materia Dark
