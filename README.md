@@ -1,11 +1,11 @@
 ![Desktop Screenshoot](./Screenshoots/Desktop.png)
 
 - **Distro**: Manjaro
-- **Desktop Environment**: KDE Plasme
+- **Desktop Environment**: KDE Plasma
 - **Icon Pack**: Papirus Dark
 - **Global Theme**: Aura KDE
 - **GTK2/3 Theme**: Materia Dark
-- **Window Decorations*: Sierra Breeze
+- **Window Decorations**: Sierra Breeze
 - **Cursors**: Breeze Dark
 - **Dock**: Latte Dock
 - **Terminal**: Konsole
